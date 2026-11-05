@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-flow-forecasting-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-cash-flow-forecasting",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-cash-flow-forecasting-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/cash-flow-forecasting.md",
+  "presentationPlan": "projects/accounting/vue/cash-flow-forecasting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
